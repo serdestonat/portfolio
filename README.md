@@ -35,7 +35,7 @@ Used **Next.JS** to make a functioning e-commerce website using REST API. This w
 ### A Corporate Website
 [GitHub Link](https://github.com/serdestonat/website-nextjs)
 
-[E-Commerce](assets/img/e-commerce.png)
+![E-Commerce](assets/img/e-commerce.png)
 
 
 Using **Next.JS**, I made a corporate website inspired from my favorite game **The Long Dark**. It includes a functioning "Contact Us" form, dranwn map from Google Maps, and also a "Scroll To Top" button.
