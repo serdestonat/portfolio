@@ -6,6 +6,15 @@
 - Bachelor's Degree, Computer Engineering | Trakya University (_September 2020 - July 2024_)		 				       
 
 ## Work Experience
+**Web Developer Intern & Assistant Squad Leader (ASL) @ GAOTek Inc. (_July 2024 - Currently_)**
+- During my internship, I gained hands-on experience with WordPress, including working with
+WooCommerce, YITH, CF7, and Elementor. I successfully developed an Ajax Search Bar with
+a dynamic dropdown category filter using PHP, without relying on plugins. Additionally, I
+learned to detect orphan pages. 
+- My efforts were recognized, and I was subsequently offered
+the role of 'Assistant Squad Leader,' a position in which I am currently expanding my
+leadership and technical skills.
+
 **Software Engineering Intern @ Retodi (_July 2023 - August 2023_)**
 - Partnered Project with Fizibil Enginnering Software & Informatics.
 - I learned to make personal and professional websites using Next.js and React.js. I made an
