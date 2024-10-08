@@ -1,12 +1,12 @@
 # Software Engineer
 
-#### Technical Skills: JavaScript, Next.JS, React.JS, Python, SQL, Kotlin (Jetpack Compose), HTML & CSS, Flutter, Java, C, C#, PHP, Assembly x86
+#### Technical Skills: JavaScript, Next.JS, React.JS, Python, SQL, Kotlin (Jetpack Compose), HTML & CSS, Flutter, Java, C, C#, PHP, Assembly x86, WordPress, Elementor
 
 ## Education
-- Bachelor's Degree, Computer Engineering | Trakya University (_September 2020 - July 2024_)		 				       
+- Bachelor's Degree, Computer Engineering | Trakya University		 				       
 
 ## Work Experience
-**Web Developer Intern & Assistant Squad Leader (ASL) @ GAOTek Inc. (_July 2024 - Currently_)**
+**Web Developer Intern & Assistant Squad Leader (ASL) @ GAOTek Inc. (_July 2024 - October 2024_)**
 - During my internship, I gained hands-on experience with WordPress, including working with
 WooCommerce, YITH, CF7, and Elementor. I successfully developed an Ajax Search Bar with
 a dynamic dropdown category filter using PHP, without relying on plugins. Additionally, I
