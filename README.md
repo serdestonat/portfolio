@@ -6,26 +6,29 @@
 - Bachelor's Degree, Computer Engineering | Trakya University		 				       
 
 ## Work Experience
-**Web Developer Intern & Assistant Squad Leader (ASL) @ GAOTek Inc. (_July 2024 - October 2024_)**
-- During my internship, I gained hands-on experience with WordPress, including working with
-WooCommerce, YITH, CF7, and Elementor. I successfully developed an Ajax Search Bar with
-a dynamic dropdown category filter using PHP, without relying on plugins. Additionally, I
-learned to detect orphan pages. 
-- My efforts were recognized, and I was subsequently offered
-the role of 'Assistant Squad Leader,' a position in which I am currently expanding my
-leadership and technical skills.
+**Assistant Squad Leader (ASL) @ GAOTek Inc. (_July 2024 - October 2024_)**
+- Team Leadership: Promoted to Assistant Squad Leader for demonstrating strong technical and leadership capabilities.
+- Intern Management: Supervised and guided a team of 54 interns, resolving queries and ensuring timely task completion.
+- Training & Development: Conducted daily meetings and trained new squad leaders and assistant squad leaders for smooth leadership transitions.
+- Project Coordination: Reviewed daily reports, monitored progress, and assigned tasks based on individual strengths and project requirements.
+- Performance Tracking: Maintained and updated attendance and tracking sheets for accurate record-keeping.
+- Recognition: Acknowledged by senior management for efficiently managing teams and delivering results within tight deadlines.
+
+**Web Developer Intern @GAOTek Inc. (_July 2024 - October 2024_)**
+- WordPress Development: Created and managed dynamic websites using WordPress, integrating plugins like WooCommerce, YITH, Contact Form 7, and Elementor.
+- Custom PHP Solutions: Developed a custom Ajax search bar with a dynamic dropdown category filter using PHP, eliminating the need for additional plugins.
+- SEO Enhancement: Improved website structure by identifying and resolving orphan pages, enhancing SEO and user navigation.
 
 **Software Engineering Intern @ Retodi (_July 2023 - August 2023_)**
-- Partnered Project with Fizibil Enginnering Software & Informatics.
-- I learned to make personal and professional websites using Next.js and React.js. I made an
-instutional website based on one of my favorite themes and a functioning e-commerce
-webiste.
+- Web Development Projects: Partnered with Fizibil Engineering Software & Informatics on various web development initiatives.
+- Next.js & React.js Expertise: Developed personal and professional websites using Next.js and React.js, strengthening proficiency in modern web technologies.
+- Custom Theming: Created an institutional website with a custom theme, ensuring alignment with client branding and functional requirements.
+- E-commerce Development: Built a functional e-commerce website focusing on product display, user experience, and cart functionality, excluding the payment system as per project scope.
 
 **Voluntary Software Engineering Trainee @ Uğur Optik Makina (_July 2022 - Augutst 2022_)**
-- I helped make the necessary adjustments in the software and correct the errors in the
-production of a device that measures the distances between the pupils and recommends the
-most suitable glasses for the person, taking into account the lifestyle, habits and tastes of the
-person.
+- Software Refinement: Assisted in adjusting and refining software for a device measuring interpupillary distance (IPD).
+- Error Diagnosis: Diagnosed and corrected software errors to enhance the accuracy of personalized eyewear recommendations based on user lifestyle and preferences.
+- Cross-functional Collaboration: Worked with the engineering team to ensure the device met technical specifications and user-centered design standards.
 
 ## Projects
 ### Encrypted Messaging Software In A Network Environment Using Playfair Cipher With Turkish Alphabet
