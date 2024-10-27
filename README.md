@@ -1,4 +1,4 @@
-# Software Engineer
+# Junior Frontend Developer
 
 #### Technical Skills: JavaScript, Next.JS, React.JS, Python, SQL, Kotlin (Jetpack Compose), HTML & CSS, Flutter, Java, C, C#, PHP, Assembly x86, WordPress, Elementor
 
