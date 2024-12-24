@@ -51,11 +51,11 @@ Used **Next.JS** to make a functioning e-commerce website using REST API. This w
 Using **Next.JS**, I made a corporate website inspired from my favorite game **The Long Dark**. It includes a functioning "Contact Us" form, imported map from Google Maps, and also a "Scroll To Top" button.
 
 ## Certifications
-- Certificate Of Training In Web Development - GAOTek Inc.  **October 2024**
-- Certificate Of Training In Digital Marketing - GAOTek Inc.  **October 2024**
-- Certificate Of Internship - GAOTek Inc.  **October 2024**
-- Scrum Master & Agile Scrum Certification - Paul Ashun, Udemy  **November 2024**
-- IELTS Academic - Overall Band Score : 7.5  **December 2024**
+- Certificate Of Training In Web Development - GAOTek Inc. @ October 2024
+- Certificate Of Training In Digital Marketing - GAOTek Inc. @ October 2024
+- Certificate Of Internship - GAOTek Inc. @ October 2024
+- Scrum Master & Agile Scrum Certification - Paul Ashun, Udemy @ November 2024
+- IELTS Academic - Overall Band Score : 7.5 @ December 2024
 
 ## Education
 - Bachelor's Degree, Computer Engineering | Trakya University		
