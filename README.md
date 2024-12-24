@@ -3,7 +3,7 @@
 #### Technical Skills: Next.JS, React.JS, JavaScript, Python, HTML & CSS, WordPress & Elementor, GraphQL, SQL, MySQL, Angular, Vue.js, Java, C, C#, PHP, Team	Management		       
 
 ## Work Experience
-**Assistant Squad Leader (ASL) & Web Development Intern @ GAOTek Inc. (_July 2024 - October 2024_)**
+**Assistant Squad Leader & Web Development Intern @ GAOTek Inc. (_July 2024 - October 2024_)**
 - Team Leadership: Promoted to Assistant Squad Leader for demonstrating strong technical and leadership capabilities.
 - Intern Management: Supervised and guided a team of 54 interns, resolving queries and ensuring timely task completion.
 - Training & Development: Conducted daily meetings and trained new squad leaders and assistant squad leaders for smooth leadership transitions.
@@ -20,7 +20,7 @@
 - Custom Theming: Created an institutional website with a custom theme, ensuring alignment with client branding and functional requirements.
 - E-commerce Development: Built a functional e-commerce website focusing on product display, user experience, and cart functionality, excluding the payment system as per project scope.
 
-**Software Engineering Trainee @ Uğur Optik Makina (_July 2022 - Augutst 2022_)**
+**Software Engineering Trainee @ Uğur Optical Machines (_July 2022 - August 2022_)**
 - Software Refinement: Assisted in adjusting and refining software for a device measuring interpupillary distance (IPD).
 - Error Diagnosis: Diagnosed and corrected software errors to enhance the accuracy of personalized eyewear recommendations based on user lifestyle and preferences.
 - Cross-functional Collaboration: Worked with the engineering team to ensure the device met technical specifications and user-centered design standards.
