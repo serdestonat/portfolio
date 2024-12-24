@@ -29,7 +29,7 @@
 ### Encrypted Messaging Software In A Network Environment Using Playfair Cipher With Turkish Alphabet
 [GitHub Link](https://github.com/serdestonat/playfair-crypted-text-software)
 
-![Project](assets/img/projeclient.png)
+![Project](assets/img/projectclient.png)
 
 The objective of this project is to create a messaging software that encrypts messages in the server and decrypts them in the client, using **Python**. Since it is a Turkish version of a Playfair Cipher, we needed to make adjustments of our own. For example, a regular Playfair Cipher is a 5x5 matrix wheras our matrix is a 6x6 due to fact that Turkish alphabet is a 29 letter alphabet and the remaining 7 spots of that 6x6 matrix are filled with various punctuation marks such as "." , "," "!", "?" etc.
 
@@ -51,11 +51,11 @@ Used **Next.JS** to make a functioning e-commerce website using REST API. This w
 Using **Next.JS**, I made a corporate website inspired from my favorite game **The Long Dark**. It includes a functioning "Contact Us" form, imported map from Google Maps, and also a "Scroll To Top" button.
 
 ## Certifications
-- Certificate Of Training In Web Development | GAOTek Inc. - October 2024
-- Certificate Of Training In Digital Marketing | GAOTek Inc. - October 2024
-- Certificate Of Internship | GAOTek Inc. - October 2024
-- Scrum Master & Agile Scrum Certification | Paul Ashun, Udemy - November 2024
-- IELTS Academic | Overall Band Score : 7.5 - December 2024
+- Certificate Of Training In Web Development   GAOTek Inc.  **October 2024**
+- Certificate Of Training In Digital Marketing   GAOTek Inc.  **October 2024**
+- Certificate Of Internship   GAOTek Inc.  **October 2024**
+- Scrum Master & Agile Scrum Certification   Paul Ashun, Udemy  **November 2024**
+- IELTS Academic   Overall Band Score : 7.5  **December 2024**
 
 ## Education
 - Bachelor's Degree, Computer Engineering | Trakya University		
