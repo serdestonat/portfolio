@@ -20,7 +20,7 @@
 - Custom Theming: Created an institutional website with a custom theme, ensuring alignment with client branding and functional requirements.
 - E-commerce Development: Built a functional e-commerce website focusing on product display, user experience, and cart functionality, excluding the payment system as per project scope.
 
-**Software Engineering Trainee @ Uğur Optical Machines (_July 2022 - August 2022_)**
+**Software Engineering Intern @ Uğur Optical Machines (_July 2022 - August 2022_)**
 - Software Refinement: Assisted in adjusting and refining software for a device measuring interpupillary distance (IPD).
 - Error Diagnosis: Diagnosed and corrected software errors to enhance the accuracy of personalized eyewear recommendations based on user lifestyle and preferences.
 - Cross-functional Collaboration: Worked with the engineering team to ensure the device met technical specifications and user-centered design standards.
