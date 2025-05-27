@@ -34,21 +34,22 @@
 The objective of this project is to create a messaging software that encrypts messages in the server and decrypts them in the client, using **Python**. Since it is a Turkish version of a Playfair Cipher, we needed to make adjustments of our own. For example, a regular Playfair Cipher is a 5x5 matrix wheras our matrix is a 6x6 due to fact that Turkish alphabet is a 29 letter alphabet and the remaining 7 spots of that 6x6 matrix are filled with various punctuation marks such as "." , "," "!", "?" etc.
 
 
-### A Functional E-Commerce Website 
-[GitHub Link](https://github.com/serdestonat/e-commerce)
+### A Poll Website With Google Authentication & Manual Registration
+[GitHub Link](https://github.com/serdestonat/login-form)
 
-![E-Commerce](assets/img/e-commerce.png)
+![Login](assets/img/poll-login.png)
+![Poll](assets/img/poll.png)
 
-Used **Next.JS** to make a functioning e-commerce website using REST API. This website can add items to cart, delete them from the cart and you can decide the quantity of items. Categories and items are pulled from an API. You can search items from a search bar with an incluison of a "Scroll To Top" button. But since the API is public the items and categories may change and not shown properly from time to time.
+Used **Next.JS** to make a functioning poll website. When you are registered and logged in, this website allows you to vote every 5 minutes. You cannot vote again until 5 minutes after your last vote. Every account has its own cooldowns. Meaning that you can vote with one account to a button of your preferance, log out, log in again with a different account and vote again. You cannot jump into the poll page without logging in. If you try that you will get a warning and you will be redirected to the login page after 3 seconds. There are five options for you to vote, each in different color. The color of the navbar changes its color depending on which option has the most votes. There is also a custom 404 page as well.
 
 
 
-### A Corporate Website
-[GitHub Link](https://github.com/serdestonat/website-nextjs)
+### A ToDo List With Drag & Drop
+[GitHub Link](https://github.com/serdestonat/angular-todo-app)
 
-![The Long Dark](assets/img/thelongdark.png)
+![ToDo App](assets/img/todo.png)
 
-Using **Next.JS**, I made a corporate website inspired from my favorite game **The Long Dark**. It includes a functioning "Contact Us" form, imported map from Google Maps, and also a "Scroll To Top" button.
+Using **Angular**, I made a ToDo List app with a drag and drop feature. Used local storage to store the items. You can check the checkboxes to mark an item as completed or you can drag the item and drop in to the "Completed" section. The lastest item you add to the "ToDo's" section appears at the top of the list. However you can arrange the list to your liking with the drag and drop feature within the each section as well. You can also edit the items if you ever need a correction.
 
 ## Certifications
 - Certificate Of Training In Web Development - GAOTek Inc. @ October 2024
