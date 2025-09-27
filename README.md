@@ -3,27 +3,31 @@
 #### Technical Skills: Next.JS, React.JS, JavaScript, Python, HTML & CSS, WordPress & Elementor, GraphQL, SQL, MySQL, Angular, Vue.js, Java, C, C#, PHP, Team	Management		       
 
 ## Work Experience
+**LLM Trainer @ Turing (_September 2025 - Current_)**
+- Designed and refined user and system prompts to enhance the training of large language models (LLMs).
+- Developed workflows and use cases ensuring clarity and real-world applicability across diverse scenarios. 
+- Provided necessary identities and information for accurate tool usage, minimizing hallucinations in model outputs.
+
 **Assistant Squad Leader & Web Development Intern @ GAOTek Inc. (_July 2024 - October 2024_)**
-- Team Leadership: Promoted to Assistant Squad Leader for demonstrating strong technical and leadership capabilities.
-- Intern Management: Supervised and guided a team of 54 interns, resolving queries and ensuring timely task completion.
-- Training & Development: Conducted daily meetings and trained new squad leaders and assistant squad leaders for smooth leadership transitions.
-- Project Coordination: Reviewed daily reports, monitored progress, and assigned tasks based on individual strengths and project requirements.
-- Performance Tracking: Maintained and updated attendance and tracking sheets for accurate record-keeping.
-- Recognition: Acknowledged by senior management for efficiently managing teams and delivering results within tight deadlines.
-- WordPress Development: Created and managed dynamic websites using WordPress, integrating plugins like WooCommerce, YITH, Contact Form 7, and Elementor.
-- Custom PHP Solutions: Developed a custom Ajax search bar with a dynamic dropdown category filter using PHP, eliminating the need for additional plugins.
-- SEO Enhancement: Improved website structure by identifying and resolving orphan pages, enhancing SEO and user navigation.
+- Promoted to Assistant Team Lead at GAOTek Inc. for demonstrating strong technical and leadership capabilities. 
+- Supervised and guided a team of 54 interns, ensuring timely task completion and resolving queries. 
+- Conducted daily meetings to train new squad leaders, facilitating smooth leadership transitions.
+- Acknowledged by senior management for effective team management and delivering results under tight deadlines.
+- Developed and managed dynamic websites using WordPress, enhancing user experience and functionality. 
+- Integrated essential plugins such as WooCommerce and Elementor to optimize site performance.
+- Created a custom Ajax search bar with a dynamic dropdown filter, streamlining user navigation. 
+- Improved SEO by resolving orphan pages, significantly enhancing website structure and visibility.
 
 **Web Development Intern @ Retodi (_July 2023 - August 2023_)**
-- Web Development Projects: Partnered with Fizibil Engineering Software & Informatics on various web development initiatives.
-- Next.js & React.js Expertise: Developed personal and professional websites using Next.js and React.js, strengthening proficiency in modern web technologies.
-- Custom Theming: Created an institutional website with a custom theme, ensuring alignment with client branding and functional requirements.
-- E-commerce Development: Built a functional e-commerce website focusing on product display, user experience, and cart functionality, excluding the payment system as per project scope.
+- Collaborated with Fizibil Engineering Software & Informatics on diverse web development projects. 
+- Developed personal and professional websites utilizing Next.js and React.js, enhancing modern web technology skills. 
+- Designed a custom-themed institutional website to align with client branding and functional needs. 
+- Created a functional e-commerce website focused on user experience and product display.
 
 **Software Engineering Intern @ Uğur Optical Machines (_July 2022 - August 2022_)**
-- Software Refinement: Assisted in adjusting and refining software for a device measuring interpupillary distance (IPD).
-- Error Diagnosis: Diagnosed and corrected software errors to enhance the accuracy of personalized eyewear recommendations based on user lifestyle and preferences.
-- Cross-functional Collaboration: Worked with the engineering team to ensure the device met technical specifications and user-centered design standards.
+- Assisted in refining software for a device measuring interpupillary distance (IPD) to enhance user experience.
+- Diagnosed and corrected software errors, improving personalized eyewear recommendations based on user preferences. 
+- Collaborated with the engineering team to ensure compliance with technical specifications and user-centered design standards.
 
 ## Projects
 ### Encrypted Messaging Software In A Network Environment Using Playfair Cipher With Turkish Alphabet
@@ -35,7 +39,6 @@ The objective of this project is to create a messaging software that encrypts me
 
 
 ### A Poll Website With Google Authentication & Manual Registration
-[GitHub Link](https://github.com/serdestonat/login-form)
 
 ![Login](assets/img/poll-login.png)
 ![Poll](assets/img/poll.png)
@@ -55,6 +58,8 @@ Using **Angular**, I made a ToDo List app with a drag and drop feature. Used loc
 - Certificate Of Training In Web Development - GAOTek Inc. @ October 2024
 - Certificate Of Training In Digital Marketing - GAOTek Inc. @ October 2024
 - Certificate Of Internship - GAOTek Inc. @ October 2024
+- First Steps Towards AI - Global AI Hub @ September 2025
+- Introduction To Deep Learning - Global AI Hub @ September 2025
 - Scrum Master & Agile Scrum Certification - Paul Ashun, Udemy @ November 2024
 - IELTS Academic - Overall Band Score : 7.5 @ December 2024
 
