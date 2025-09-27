@@ -8,6 +8,9 @@
 - Developed workflows and use cases ensuring clarity and real-world applicability across diverse scenarios. 
 - Provided necessary identities and information for accurate tool usage, minimizing hallucinations in model outputs.
 
+**Frontend Developer @ Freelance (_March 2025 - June 2025_)**
+- Developed websites using Next.js for customers needs and requirements.
+
 **Assistant Squad Leader & Web Development Intern @ GAOTek Inc. (_July 2024 - October 2024_)**
 - Promoted to Assistant Team Lead at GAOTek Inc. for demonstrating strong technical and leadership capabilities. 
 - Supervised and guided a team of 54 interns, ensuring timely task completion and resolving queries. 
