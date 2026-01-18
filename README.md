@@ -63,8 +63,10 @@ Using **Angular**, I made a ToDo List app with a drag and drop feature. Used loc
 - Certificate Of Internship - GAOTek Inc. @ October 2024
 - First Steps Towards AI - Global AI Hub @ September 2025
 - Introduction To Deep Learning - Global AI Hub @ September 2025
+- Akbank Deep Learning Bootcamp - Global AI Hub @ October 2025
 - Scrum Master & Agile Scrum Certification - Paul Ashun, Udemy @ November 2024
 - IELTS Academic - Overall Band Score : 7.5 @ December 2024
 
 ## Education
-- Bachelor's Degree, Computer Engineering | Trakya University		
+- Bachelor's Degree, Computer Engineering | Trakya University | 2020 - 2024
+- Master's Degree, Software Engineering | University of Innsbruck | 2025 - Currently
