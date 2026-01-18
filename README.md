@@ -3,7 +3,7 @@
 #### Technical Skills: Next.JS, React.JS, JavaScript, Python, HTML & CSS, WordPress & Elementor, GraphQL, SQL, MySQL, Angular, Vue.js, Java, C, C#, PHP, Team	Management		       
 
 ## Work Experience
-**LLM Trainer @ Turing (_September 2025 - Current_)**
+**LLM Trainer @ Turing (_September 2025 - January 2026_)**
 - Designed and refined user and system prompts to enhance the training of large language models (LLMs).
 - Developed workflows and use cases ensuring clarity and real-world applicability across diverse scenarios. 
 - Provided necessary identities and information for accurate tool usage, minimizing hallucinations in model outputs.
