@@ -1,8 +1,13 @@
 # Junior Frontend Developer
 
-#### Technical Skills: Next.JS, React.JS, JavaScript, Python, HTML & CSS, WordPress & Elementor, GraphQL, SQL, MySQL, Angular, Vue.js, Java, C, C#, PHP, Team	Management		       
+#### Technical Skills: Next.JS, React.JS, Tailwind, JavaScript, TypeScript, Python, HTML & CSS, WordPress & Elementor, Bootstrap, GraphQL, SQL, MySQL, Angular, Vue.js, MongoDB Git, Team	Management		       
 
 ## Work Experience
+**Frontend Developer @ Ridebase (_February 2026 - Currently_)**
+- Developing responsive web pages using Next.js, enhancing user experience and accessibility. 
+- Correcting bugs and optimizing existing features to improve site performance. 
+- Collaborating with team members using Git for efficient version control and project management.
+
 **LLM Trainer @ Turing (_September 2025 - January 2026_)**
 - Designed and refined user and system prompts to enhance the training of large language models (LLMs).
 - Developed workflows and use cases ensuring clarity and real-world applicability across diverse scenarios. 
@@ -68,5 +73,5 @@ Using **Angular**, I made a ToDo List app with a drag and drop feature. Used loc
 - IELTS Academic - Overall Band Score : 7.5 @ December 2024
 
 ## Education
-- Bachelor's Degree, Computer Engineering | Trakya University | 2020 - 2024
 - Master's Degree, Software Engineering | University of Innsbruck | 2025 - Currently
+- Bachelor's Degree, Computer Engineering | Trakya University | 2020 - 2024
