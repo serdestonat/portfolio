@@ -1,6 +1,6 @@
 # Junior Frontend Developer
 
-#### Technical Skills: Next.JS, React.JS, Tailwind, JavaScript, TypeScript, Python, HTML & CSS, WordPress & Elementor, Bootstrap, GraphQL, SQL, MySQL, Angular, Vue.js, MongoDB Git, Team	Management		       
+#### Technical Skills: Next.JS, React.JS, Tailwind, JavaScript, TypeScript, Python, HTML & CSS, WordPress & Elementor, Bootstrap, GraphQL, SQL, MySQL, Angular, Vue.js, MongoDB, Git, Team	Management		       
 
 ## Work Experience
 **Frontend Developer @ Ridebase (_February 2026 - Currently_)**
